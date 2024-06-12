@@ -1,16 +1,15 @@
-### Hi there 👋
+Alinear="centro"Hola, Soy Gabriel A. Pinzón P.-/h1
+.h3 align="center"-Soy un apasionado en el desarrollo, principalmente en frontend y videojuegos.
 
-<!--
-**Gabo19x/Gabo19x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Encuentro estoy estudiando **mi titulo profesional de ing. de sistemas y computación.**
 
-Here are some ideas to get you started:
+"h3 align="left"Conéctate conmigo: *h3"
+P. alineación="izá-Lénquicalo".
+áa href="https://dev.to/gabo19" target="blank"--img align="center" src="https://raw.githubusercontent.com/rahulddkin/github-profile-read-me-generator/master/master/images/icons/Social/devto.sv" alt="gabo19" height="30"" width="40" /-/a-
+"https://linkedin.com/in/https://www.linkedin.com/in/in/in/gabriel-pinz%c3%bn/" target="blank"-img align="center" src="https://raw.githubusercontent.com/rahulddjain/github-profile-readme-generator/master/sciages/icons/Social/linked-in-alt.sv" alt="https://www.linkedin.com/in/gabriel-pinz%c3%bc3%b3n/" height="30"" width="40" /-/a.
+- *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eh3 align="left".Idiomas y herramientas:
+P. alineación="izá-Lénquicalo". A href="https://www.w3w3schools.com/cs/" target="blank" rel="noreferrer" . .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/original.svg" alt="csharp" width="40" height="40"/o - Ah, sí. A href="https://www.w3schools.com/css/" target="-blank" rel="noreferrer" . .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/oc' - Ah, sí. "https://firebase.google.com/" target="blank" rel="noreferrer" . .img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/ocavado. - Ah, sí. A href="https://git-scm.com/" target="-blank" rel="noreferrer" . .img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="g" width="40" height="40"/oc. - Ah, sí. A href="https://www.w3.org/html/" target="blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/oc. - Ah, sí. A href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="-blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/original.svg" alt="javascript" width="40" height="40"/o - Ah, sí. A href="https://postman.com" target=""blank" rel=noreferrer" .img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/o - Ah, sí. A href="https://reactjs.org/" target="blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-word.svg" alt="react" width="40" height="40"/octubre/o - Ah, sí. A href="https://sass-lang.com" target="-blank" rel=noreferrer" . .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass-original.svg" alt="sas"" width="40" height="40"/ocú - Ah, sí. A href="https://unity.com/" target="blank" rel=noreferrer" .img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/ocú - Ah, sí. - *
+
+.p.img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabo19x&show-icons=true&locale=en&layout=compacto" alt="gabo19x" /-/p
