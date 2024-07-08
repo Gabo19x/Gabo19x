@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy estudiando **mi titulo profesional de ing. de sistemas y computación.**
 
-- 👨‍💻 Mira mis proyectos en [Github o mi linkedin](Github o mi linkedin)
+- 👨‍💻 Mira mis proyectos en Github o mi linkedin.
 
 - 📝 Tengo mi blog, sobre tematicas de tecnología [https://temas-gabriel.blogspot.com/](https://temas-gabriel.blogspot.com/)
 
