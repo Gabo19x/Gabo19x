@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Gabriel A. Pinzón P.</h1>
 <h3 align="center">Soy un apasionado en el desarrollo, principalmente en frontend y videojuegos.</h3>
 
-- 🔭 Estoy elaborando **un proyecto web, sobre una empresa hipotetica de venta de marañones (fruto seco), donde hago el diseño y desarrollo total del mismo.**
+- 🔭 Estoy trabajando **en un proyecto sobre un BOT (Truxi), el cual atendera reportes de incidentes viales en Trujillo-Peru**
 
 - 🌱 Actualmente estoy estudiando **mi titulo profesional de ing. de sistemas y computación.**
 
 - 👨‍💻 Mira mis proyectos en Github o mi linkedin.
 
-- 📝 Tengo mi blog, sobre tematicas de tecnología [https://temas-gabriel.blogspot.com/](https://temas-gabriel.blogspot.com/)
+- 📝 Tengo mi blog, sobre tematicas de tecnología [Blog](https://temas-gabriel.blogspot.com/)
 
 - 📫 Comunicate en **arturopinzon19@gmail.com**
 
